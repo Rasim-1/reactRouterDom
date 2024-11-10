@@ -1,0 +1,28 @@
+.card{
+    background-color: yellow;
+    border-radius: 20px;
+    padding: 10px;
+    h2{
+        color: red;
+    }
+
+}
+.cards{
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    h2{
+        color: yellow;
+    }
+}
+.wrapp{
+   
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    gap: 40px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.container{
+}
